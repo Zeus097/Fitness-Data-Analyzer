@@ -1,6 +1,6 @@
 # Fitness-Data-Analyzer
 
-![Fitness-Data-Analysis-Case-Study](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/a7f13d78-08a6-458b-8979-b1adebbb33eb)
+
 
 
 ### Fitness Data Analyser is a School Project. This code was taken in an unfinished state by my lecturer in order to practice on an already started project. Operations are described.
