@@ -14,6 +14,8 @@
 
 * Fixed and completed the function filter_overweight_people as adding several weight categories in different functions, to specify the body type. Also modified the outputs to work with the new feature.
 
+* Added different output (n\a) if a category is empty.
+
 
 ## Screenshots from the project
 
