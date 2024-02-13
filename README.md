@@ -8,6 +8,8 @@
 
     importing the provided code from my lecturer to start its modification. 
 
+#### The modification timeline is not in sequential order because changes were made after already updated code and over and over again.
+
 * Edited the “welcome” print with adding “the newline character” that helps in formatting your code - start one line below, for better readability.
 
 * Completed “calculate_bmi” function, by adding variable for the height, to convert in centimetres, then a calculation for body_mass_index(dmi).
