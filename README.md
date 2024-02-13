@@ -6,6 +6,8 @@
 
 ### Fitness Data Analyser is a School Project. This code was taken in an unfinished state by my lecturer in order to practice on an already started project. Operations are described.
 
+    importing the provided code from my lecturer to start its modification. 
+
 * Edited the “welcome” print with adding “the newline character” that helps in formatting your code - start one line below, for better readability.
 
 * Completed “calculate_bmi” function, by adding variable for the height, to convert in centimetres, then a calculation for body_mass_index(dmi).
