@@ -19,6 +19,8 @@
 
 * Added different output (n\a) if a category is empty.
 
+* Added Cover Photo, after editing it for the Project.
+
 
 ## Screenshots from the project
 
