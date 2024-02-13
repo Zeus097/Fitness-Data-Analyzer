@@ -1,5 +1,6 @@
 # Fitness-Data-Analyzer
 
+![987D3BD4-FB9D-4B60-A656-7C3BD4214143](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/cb5076ec-6200-4a01-8c3c-a30885193cad)
 
 
 
