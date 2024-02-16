@@ -26,6 +26,12 @@
 
 * Added Cover Photo, after editing it for the Project.
 
+* Code update - Created a function, called “main_program” to store the core information of the project and added a doctoring in it for better details.
+
+* Created the greet() function “Alice”.
+
+* Created a package and created tests for the functions in the project.
+
 
 ## Screenshots from the project
 
@@ -36,3 +42,13 @@
 ![Screenshot 2024-02-13 at 20 17 49](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/a384b6ff-2c6e-4ef2-91f3-a3461e840506)
 
 ![Screenshot 2024-02-13 at 20 45 22](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/6b271c72-8266-4941-8181-de2e7fde2ef6)
+
+
+
+## Screenshots from the tests
+
+![987D3BD4-FB9D-4B60-A656-7C3BD42141431](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/86a33a7c-ff2d-4d2b-8303-63ce2a35eac4)
+
+![987D3BD4-FB9D-4B60-A656-7C3BD42141432](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/6a17fce2-9f49-4d20-84c4-8307cf3bcf13)
+
+![987D3BD4-FB9D-4B60-A656-7C3BD42141433](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/0f621273-6ca3-4a16-b29b-fb938d9d2f58)
