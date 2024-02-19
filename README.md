@@ -47,9 +47,12 @@
 
 ## Screenshots from the tests
 
-![987D3BD4-FB9D-4B60-A656-7C3BD42141431](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/86a33a7c-ff2d-4d2b-8303-63ce2a35eac4)
 
-![987D3BD4-FB9D-4B60-A656-7C3BD42141432](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/6a17fce2-9f49-4d20-84c4-8307cf3bcf13)
+![987D3BD4-FB9D-4B60-A656-7C3BD42141431](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/9416a6aa-995f-43fc-a2a1-43b4c2995c4f)
+
+![987D3BD4-FB9D-4B60-A656-7C3BD42141432](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/e3551409-af75-4842-9ef2-00f2381e8648)
+
+![Screenshot 2024-02-19 at 19 04 18](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/a1382970-d966-4b1e-9aa7-df3f3e0941a0)
 
 
 
