@@ -32,6 +32,8 @@
 
 * Created a package and created tests for the functions in the project.
 
+* Added validating functions with Try/Except for: name, weight, height, duration.
+
 
 ## Screenshots from the project
 
