@@ -35,13 +35,12 @@
 
 ## Screenshots from the project
 
-![Screenshot 2024-02-13 at 20 14 35](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/5c547b73-1438-47d9-a946-5e40f4d63c7f)
+![987D3BD4-FB9D-4B60-A656-7C3BD4214143555](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/5ee33661-4f3c-498e-92cc-dbdad9204429)
 
-![Screenshot 2024-02-13 at 20 16 05](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/0dcc3d23-97d4-4fbb-8acd-c2865f922e2c)
+![987D3BD4-FB9D-4B60-A656-7C3BD42141435555](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/8979a8cb-d4ca-4131-84d1-7adb28cc41ec)
 
-![Screenshot 2024-02-13 at 20 17 49](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/a384b6ff-2c6e-4ef2-91f3-a3461e840506)
+![987D3BD4-FB9D-4B60-A656-7C3BD421414355555](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/d0b0b36c-3bb3-485d-85d4-04eb63d3ccff)
 
-![Screenshot 2024-02-13 at 20 45 22](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/6b271c72-8266-4941-8181-de2e7fde2ef6)
 
 
 
