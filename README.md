@@ -43,8 +43,8 @@
 ![987D3BD4-FB9D-4B60-A656-7C3BD421414355555](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/d0b0b36c-3bb3-485d-85d4-04eb63d3ccff)
 
 
-
-
+#
+#
 ## Screenshots from the tests
 
 
