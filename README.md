@@ -57,4 +57,5 @@
 
 ![Screenshot 2024-02-16 at 14 04 3654599461](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/c1789158-2292-4a5b-a14e-1c30f97d9cbf)
 
-![Screenshot 2024-02-16 at 14 04 3654599462](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/f66e619c-ba8b-460d-9762-69d0ce68663d)
+![Screenshot 2024-02-19 at 18 03 22](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/df8490af-8234-4879-839c-e133430d0510)
+
