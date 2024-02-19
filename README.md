@@ -35,9 +35,10 @@
 
 ## Screenshots from the project
 
-![987D3BD4-FB9D-4B60-A656-7C3BD4214143555](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/5ee33661-4f3c-498e-92cc-dbdad9204429)
 
-![987D3BD4-FB9D-4B60-A656-7C3BD42141435555](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/8979a8cb-d4ca-4131-84d1-7adb28cc41ec)
+![987D3BD4-FB9D-4B60-A656-7C3BD4214143555](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/3aed65bf-b511-4afb-baa1-e0703546043f)
+
+![987D3BD4-FB9D-4B60-A656-7C3BD42141435555](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/1a4dd006-a682-457e-b280-72afa446f7f4)
 
 ![987D3BD4-FB9D-4B60-A656-7C3BD421414355555](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/d0b0b36c-3bb3-485d-85d4-04eb63d3ccff)
 
