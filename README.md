@@ -53,9 +53,14 @@
 
 ![987D3BD4-FB9D-4B60-A656-7C3BD42141433](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/0f621273-6ca3-4a16-b29b-fb938d9d2f58)
 
+
+### This HTML is exported from my IDE as a result, not written from me. This is a screenshot of IT
+
 ![Screenshot 2024-02-16 at 14 04 365459946](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/4e219012-5f09-4f4b-beee-abae8c4d6fc1)
 
 ![Screenshot 2024-02-16 at 14 04 3654599461](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/c1789158-2292-4a5b-a14e-1c30f97d9cbf)
 
 ![Screenshot 2024-02-19 at 18 03 22](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/df8490af-8234-4879-839c-e133430d0510)
+
+## In the folder tests_html is that auto generated code for this screenshots. There are three html files in it.
 
