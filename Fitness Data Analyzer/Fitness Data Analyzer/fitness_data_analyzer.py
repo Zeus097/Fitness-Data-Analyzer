@@ -92,7 +92,7 @@ def height_validity_check(height):
 def duration_validity_check(duration):
     """Check if duration is valid and if is in the range 1, 120  in minutes"""
     try:
-        if 0 < duration <= 120:
+        if 0 <= duration <= 120:
             return True
         else:
             return False
@@ -137,7 +137,7 @@ def main_program():
 
         duration = float(input("---<< Enter exercise duration in minutes: "))
         while not duration_validity_check(duration):
-            duration = float(input("‼️---<< Invalid duration. Try again[1, 120 min]: "))
+            duration = float(input("‼️---<< Invalid duration. Try again[0, 120 min]: "))
 
         person = {'name': name, 'weight': weight, 'height': height, 'duration': duration}
         people_data.append(person)
