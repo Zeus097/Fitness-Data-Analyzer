@@ -1,10 +1,10 @@
-# Fitness-Data-Analyzer
+# Fitness-Data-Analysis
 
 ![987D3BD4-FB9D-4B60-A656-7C3BD4214143](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/cb5076ec-6200-4a01-8c3c-a30885193cad)
 
 
 
-### Fitness Data Analyser is a School Project. This code was taken in an unfinished state by my lecturer in order to practice on an already started project. Operations are described.
+### Fitness Data Analysis is a School Project. This code was taken in an unfinished state by my lecturer in order to practice on an already started project. Operations are described.
 
     imported the provided code from my lecturer to start its modification. 
 
