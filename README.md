@@ -16,7 +16,7 @@
 
 * Completed “calculate_calories_burned” function, by adding a calculation for standard rate of calorie burn per minute to calculate calories burned for the user-specified workout time. For this to work, I added a variable with estimated burned calories per minute.
 
-* Added counter in the end of the while loop in the Main program, to provide new input, with different message. Also aded additional statement for the user to decide whether user wants to continue with data for the next person or for the program to take him to the fitness statistics for the insured persons and the termination of the program.
+* Added additional statement for the user to decide whether user wants to continue with data for the next person or for the program to take him to other options.
 
 * Modified the input text messages to improve experience.
 
@@ -26,14 +26,18 @@
 
 * Added Cover Photo, after editing it for the Project.
 
-* Code update - Created a function, called “main_program” to store the core information of the project and added a doctoring in it for better details.
+* Code update - Created a function, called “main_program” to store the core information of the project and added a docstring in it for better details.
 
 * Created the greet() function “Alice”.
 
-* Created a package and created tests for the functions in the project.
+* Created a package and created tests for som of the functions in the project.
 
 * Added validating functions with Try/Except for: name, weight, height, duration.
 
+* Added new feature:
+*     recipes generator
+  
+* Change the name and the cover
 
 ## Screenshots from the project
 
