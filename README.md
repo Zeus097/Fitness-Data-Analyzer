@@ -37,6 +37,7 @@
 
 * Added new feature:
 *     recipes generator
+*     it generates 5 recipes using a keyword from the user (dish name etc.).
   
 * Change the name and the cover
 
