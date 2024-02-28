@@ -35,7 +35,7 @@
 
 * Added validating functions with Try/Except for: name, weight, height, duration.
 
-* Added new feature:
+* Added new features:
 *     . recipes generator.
       . it generates 5 recipes using a keyword from the user (dish name etc.).
       . calculating food nutrition.
