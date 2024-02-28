@@ -1,10 +1,11 @@
-# Fitness-Data-Analysis
+# Weight Data and Food Analysis
 
-![987D3BD4-FB9D-4B60-A656-7C3BD4214143](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/cb5076ec-6200-4a01-8c3c-a30885193cad)
+![70312C58-1FD4-438B-AEBA-DC51F8A4A9C2](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/2371ebf6-ea3c-4f8f-be78-4e20b3b37c60)
 
 
 
-### Fitness Data Analysis is a School Project. This code was taken in an unfinished state by my lecturer in order to practice on an already started project. Operations are described.
+
+### Weight Data and Food Analysis is a School Project. This code was taken in an unfinished state by my lecturer in order to practice on an already started project. Operations are described.
 
     imported the provided code from my lecturer to start its modification. 
 
