@@ -37,7 +37,8 @@
 
 * Added new feature:
 *     recipes generator
-*     it generates 5 recipes using a keyword from the user (dish name etc.).
+      it generates 5 recipes using a keyword from the user (dish name etc.).
+      calculating food nutrition
   
 * Change the name and the cover
 
