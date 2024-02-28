@@ -152,7 +152,7 @@ def main_program():
             people_data.append(person)
 
         elif command == "f":
-            api_key = "5f5f599ca7a74124802636d26a9a7a9f"
+            api_key = "PRIVATE_KEY"
 
             def get_recipe_by_url(title, recipe_id):
                 """
@@ -190,8 +190,8 @@ def main_program():
                 """
                 The property of this function is to collect nutrition info
                 """
-                app_id = '059e5580'
-                app_key = 'cd3a7c2e5c64fdde938f24ffb863e04b'
+                app_id = 'PRIVATE_ID'
+                app_key = 'PRIVATE_KEY'
 
                 url = f'https://api.edamam.com/api/nutrition-data?app_id={app_id}&app_key={app_key}&ingr={food}'
 
