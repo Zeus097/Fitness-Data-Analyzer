@@ -151,7 +151,7 @@ def main_program():
 
 
         elif command == "f":
-            api_key = "5f5f599ca7a74124802636d26a9a7a9f"
+            api_key = "MY_KEY_IS_PRIVATE"
 
             def get_recipe_by_url(title, recipe_id):
                 slug = title.lower().replace(" ", "-")
