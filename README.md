@@ -1,4 +1,4 @@
-# Weight Data and Food Analysis
+# Weight Data and Food Analysis.
 
 ![70312C58-1FD4-438B-AEBA-DC51F8A4A9C2](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/2371ebf6-ea3c-4f8f-be78-4e20b3b37c60)
 
