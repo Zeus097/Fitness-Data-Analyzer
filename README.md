@@ -3,7 +3,21 @@
 ![70312C58-1FD4-438B-AEBA-DC51F8A4A9C2](https://github.com/Zeus097/Fitness-Data-Analyzer/assets/142613528/2371ebf6-ea3c-4f8f-be78-4e20b3b37c60)
 
 
+## A console-based Python application that analyzes personal fitness data, calculates BMI and calories burned, and integrates with nutrition APIs to suggest food recipes and nutrition details.
 
+### 🚀 Features
+
+📊 BMI Calculation – Categorizes users as underweight, normal, overweight, or obese
+
+🔥 Calories Burned Estimation – Based on exercise duration
+
+🍽️ Recipe Generator – Uses Spoonacular API to suggest healthy meals
+
+🧪 Nutrition Facts Calculator – Pulls macro info via Edamam API
+
+✅ Input Validation – Robust checks for names, weight, height, and duration
+
+🧪 Unit Testing – Ensures accurate calculations and filtering logic
 
 ### Weight Data and Food Analysis is a School Project. This code was taken in an unfinished state by my lecturer in order to practice on an already started project. Operations are described.
 
